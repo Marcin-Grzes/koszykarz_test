@@ -1,4 +1,5 @@
 cmake-build-debug/
+build/
 # Ignorowanie katalogu .idea (ustawienia projektu CLion)
 .idea/
 
